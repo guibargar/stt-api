@@ -1,0 +1,1 @@
+web: gunicorn swedish_train_traffic_api.wsgi --log-file -
